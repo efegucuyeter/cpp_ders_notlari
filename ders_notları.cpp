@@ -127,7 +127,7 @@ if (bulundu) {
     cout << "Eleman bulunamadı!";
 }
 
-//Dizide Maksimum ve Minimum Değeri Bulma
+//dizide maksimum ve minimum değeri bulma
 
 int dizi[5] = {10, 20, 30, 40, 50};
 int maksimum = dizi[0];
