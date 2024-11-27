@@ -1,1 +1,1 @@
-# cpp_ders_notlari
+bu kodlar vize hazırlığı kapsamında cpp ve dizeler hakkında temel kavramlar içerir
