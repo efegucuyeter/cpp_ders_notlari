@@ -1,1 +1,1 @@
-bu kodlar vize hazırlığı kapsamında cpp ve dizeler hakkında temel kavramlar içerir
+Bu kodlar vize hazırlığı kapsamında cpp ve dizeler hakkında temel kavramlar içerir.
